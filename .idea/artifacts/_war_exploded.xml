@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="网上订餐系统:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="网上订餐系统" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="网上订餐系统/web/Web" />
+      <element id="javaee-facet-resources" facet="网上订餐系统/web/Web2" />
+      <element id="javaee-facet-resources" facet="网上订餐系统/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
